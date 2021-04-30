@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Xolisani Ngcobo**
-- 👀 I’m interested in **C# Asp.net Core, .NET, Python, Flutter & Dart**
+- 👀 I’m interested in **.NET CORE, .NET, Python, IOT, LoRaWan,Flutter & Dart**
 - 🌱 I’m currently learning basic **Python, Flutter & Dart**
 - 💞️ I’m looking to collaborate on **C# Asp.net Core, .NET, Python, Flutter & Dart** related projects
 - 📫 How to reach me 📧 ngcoboxolisani@gmail.com
