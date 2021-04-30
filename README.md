@@ -2,7 +2,7 @@
 - 👀 I’m interested in **.NET CORE, .NET, Python, IOT, LoRaWan,Flutter & Dart**
 - 🌱 I’m currently learning basic **Python, Flutter & Dart**
 - 💞️ I’m looking to collaborate on **C# Asp.net Core, .NET, Python, Flutter & Dart** related projects
-- 📫 How to reach me 📧 ngcoboxolisani@gmail.com
+- 📫 You can reach me on 🐦 
 
 <!---
 Xolsann722/Xolsann722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
